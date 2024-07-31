@@ -1,0 +1,14 @@
+C:\Users\Alumno\source\repos\Repaso\Testeo\bin\Debug\net8.0\Testeo.exe
+C:\Users\Alumno\source\repos\Repaso\Testeo\bin\Debug\net8.0\Testeo.deps.json
+C:\Users\Alumno\source\repos\Repaso\Testeo\bin\Debug\net8.0\Testeo.runtimeconfig.json
+C:\Users\Alumno\source\repos\Repaso\Testeo\bin\Debug\net8.0\Testeo.dll
+C:\Users\Alumno\source\repos\Repaso\Testeo\bin\Debug\net8.0\Testeo.pdb
+C:\Users\Alumno\source\repos\Repaso\Testeo\obj\Debug\net8.0\Testeo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\Repaso\Testeo\obj\Debug\net8.0\Testeo.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\Repaso\Testeo\obj\Debug\net8.0\Testeo.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\Repaso\Testeo\obj\Debug\net8.0\Testeo.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Repaso\Testeo\obj\Debug\net8.0\Testeo.dll
+C:\Users\Alumno\source\repos\Repaso\Testeo\obj\Debug\net8.0\refint\Testeo.dll
+C:\Users\Alumno\source\repos\Repaso\Testeo\obj\Debug\net8.0\Testeo.pdb
+C:\Users\Alumno\source\repos\Repaso\Testeo\obj\Debug\net8.0\Testeo.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\Repaso\Testeo\obj\Debug\net8.0\ref\Testeo.dll
